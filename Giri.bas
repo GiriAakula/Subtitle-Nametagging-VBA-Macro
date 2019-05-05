@@ -1,4 +1,4 @@
-Attribute VB_Name = "NewMacros"
+Attribute VB_Name = "Nametagging for SRT"
 Sub Giri()
 Dim first As String
 Dim second As String
@@ -53,6 +53,9 @@ Sub Asma(ByVal inputText As String)
     Selection.MoveDown Unit:=wdLine, Count:=2
     
     ElseIf InStr(1, Selection.Range.Text, "F") = 1 Then
+    Selection.MoveDown Unit:=wdLine, Count:=2
+    
+    ElseIf InStr(1, Selection.Range.Text, "G") = 1 Then
     Selection.MoveDown Unit:=wdLine, Count:=2
     
     ElseIf InStr(1, Selection.Range.Text, "H") = 1 Then
