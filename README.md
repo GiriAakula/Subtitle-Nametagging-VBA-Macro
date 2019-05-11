@@ -10,4 +10,4 @@ Step 4: Go to file ---> Import file ---> select the downloaded .bas file ---> th
 Step 5: Now open the SRT file by using Microsoft Word.<br>
 Step 6: Go to view --> Macros --> View Macros ---> Click on Giri and Select Run.<br>
 
-If you have any queries you contact me through www.giriaakula.com
+If you have any queries you can find me at www.giriaakula.com
